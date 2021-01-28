@@ -1,0 +1,2 @@
+(require 'fixmee)
+(global-fixmee-mode 1)
